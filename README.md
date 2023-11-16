@@ -33,4 +33,4 @@
 </div>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=slendertaker&show_icons=true&theme=radical)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=ZekkelAR&layout=compact&theme=nightowl)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=slendertaker&layout=compact&theme=nightowl)
