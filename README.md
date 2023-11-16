@@ -31,3 +31,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=slendertaker&show_icons=true&theme=radical)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=ZekkelAR&layout=compact&theme=nightowl)
