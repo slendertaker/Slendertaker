@@ -1,16 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">I am slendertaker, from Indonesia</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since bornt<br>📚 I'm currently learning C++ <br>🎯 Goals: The next Sam Altman</p>
+<h1 align="left">Hey 👋 I am <strong><a href="https://github.com/slendertaker">slendertaker</a></strong>, from Indonesia</h1>
 
 ###
 
@@ -32,7 +20,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
-###
 
-![github stats](https://github-readme-stats.vercel.app/api?username=slendertaker&show_icons=true&theme=radical)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=slendertaker&layout=compact&theme=nightowl)
+
+
+<p align="center">
+  <br>
+  <img src="https://lanyard.cnrad.dev/api/757858860152258582">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=slendertaker&label=Profile%20views:&color=brightgreen">
+</p>
