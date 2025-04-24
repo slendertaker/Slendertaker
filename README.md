@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I am <strong><a href="https://github.com/slendertaker">slendertaker</a></strong>, from Indonesia</h1>
+<img src="https://i.imgur.com/rip1u2l.png"></img>
 
 ###
 
